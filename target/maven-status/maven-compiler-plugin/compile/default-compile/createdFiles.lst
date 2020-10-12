@@ -1,0 +1,7 @@
+com/example/profile/ProfileApplication.class
+com/example/profile/controller/CandidateController.class
+com/example/profile/repo/CandidateRepo.class
+com/example/profile/model/CandidateEducation.class
+com/example/profile/model/CandidateWorkHistory.class
+com/example/profile/model/CandidateProfile.class
+com/example/profile/service/CandidateService.class
